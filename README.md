@@ -12,5 +12,7 @@ courseraのレッスンを通して学習した内容です。
 - NPM Scripts
 - Task Runners: Grunt and Gulp
 
-[サイトのイメージ]
-https://github.com/alicealice129/bootstrap4/blob/master/screenshots/index_html.png
+[サイトのイメージ]<br>
+<img src="https://github.com/alicealice129/bootstrap4/blob/master/screenshots/index_html.png" width="320px"><br>
+他の画像は以下より確認できます。<br>
+https://github.com/alicealice129/bootstrap4/blob/master/screenshots
